@@ -23,60 +23,41 @@ Tenho interesse em desenvolvimento web, análise de dados, Power BI, Python, Jav
 ### Helpdesk Interno
 API REST para gerenciamento de chamados internos de TI utilizando Python, FastAPI e SQLAlchemy.
 
-🔗 Repositório:  
+Repositório:  
 https://github.com/murilotpiai/helpdesk-interno
 
 ---
 
-### Fincoob — Controle Financeiro
-Sistema web para controle financeiro pessoal com gráficos, filtros, importação e exportação de dados.
+### Fincoob - Gestão Financeira
+Sistema web para gestão financeira pessoal com gráficos, filtros, importação e exportação de dados.
 
-🌐 Deploy:  
+Deploy:  
 https://controle-financeiro-besj.vercel.app/
 
-🔗 Repositório:  
-https://github.com/murilotpiai/Controle-Financeiro
+Repositório:  
+https://github.com/murilotpiai/Fincoob---Gest-o-Financeira
 
 ---
 
 ### Portfólio Profissional
-Página pessoal para apresentação de habilidades, experiências, projetos e contatos profissionais.
+Página pessoal para apresentação de habilidades, experiência, projetos e contatos profissionais.
 
-🌐 Deploy:  
-https://portfolio-tres-tau-54.vercel.app/
+Deploy:  
+https://portfolio-three-tau-54.vercel.app
 
-🔗 Repositório:  
+Repositório:  
 https://github.com/murilotpiai/Portfolio
 
 ---
 
-## Tecnologias
+## Tecnologias e ferramentas
 
-- HTML5
-- CSS3
-- JavaScript
-- Python
-- FastAPI
-- SQLAlchemy
-- C#
-- SQL
-- Power BI
-- Excel
-- Docker
-- Git
-- GitHub
-- SAP/SCPI
-- ERP
+HTML, CSS, JavaScript, Python, FastAPI, SQLAlchemy, C#, SQL, Power BI, Excel, Docker, Git, GitHub, SAP/SCPI e sistemas ERP.
 
 ---
 
 ## Contato
 
-💼 LinkedIn:  
-https://www.linkedin.com/in/mtpiai
-
-🐙 GitHub:  
-https://github.com/murilotpiai
-
-📧 E-mail:  
-murilotpiai@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mtpiai
+- GitHub: https://github.com/murilotpiai
+- E-mail: murilotpiai@gmail.com
